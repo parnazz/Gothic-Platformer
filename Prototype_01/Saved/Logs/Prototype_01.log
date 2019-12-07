@@ -644,3 +644,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.07-13.23.29:233][171]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2019.12.07-13.23.31:569][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.07-13.31.40:040][918]LogSlate: Took 0.000862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.07-13.51.31:387][329]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.07-13.51.31:387][329]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.07-13.52.52:849][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-13.52.52:956][860]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-13.52.52:973][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.07-13.52.52:973][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-13.52.52:973][860]PIE: New page: PIE session: ThirdPersonExampleMap (7 дек. 2019 г., 19:52:52)
+[2019.12.07-13.52.52:974][860]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.07-13.52.53:097][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123536s)
+[2019.12.07-13.52.53:098][860]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.07-13.52.53:099][860]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2019.12.07-13.52.53:099][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.125091s)
+[2019.12.07-13.52.53:129][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.07-13.52.53:265][860]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-13.52.53:307][860]LogInit: FAudioDevice initialized.
+[2019.12.07-13.52.53:343][860]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.07-13.52.53:355][860]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.07-16.52.53
+[2019.12.07-13.52.53:356][860]LogWorld: Bringing up level for play took: 0.010901
+[2019.12.07-13.52.53:372][860]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,117
+[2019.12.07-13.52.53:372][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.07-13.53.21:890][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.07-13.53.21:890][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-13.53.21:924][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-13.53.21:924][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.07-13.53.21:955][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-13.53.21:969][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.07-13.53.21:989][254]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.07-13.58.39:774][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-13.58.39:899][429]MapCheck: New page: Map Check
+[2019.12.07-13.58.39:936][429]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.07-13.58.39:937][429]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.07-13.58.41:994][429]LogEditorServer: Cleared 290 NULL BSP materials after rebuild.
+[2019.12.07-13.58.42:048][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.07-13.58.42:125][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:163][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:171][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:180][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.07-13.58.42:211][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:219][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:230][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.42:239][429]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.07-13.58.48:217][429]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.07-13.58.48:217][429]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.07-13.58.48:217][429]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.07-13.58.48:217][429]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.07-13.58.48:217][429]TextureStreamingBuild: Display: Compiling optional shaders took 6.106 seconds.
+[2019.12.07-13.58.48:280][429]LogLevel: Display: Export Material TexCoord Scales took 0.064 seconds.
+[2019.12.07-13.58.48:345][429]TextureStreamingBuild: Display: Build Texture Streaming took 0.064 seconds.
+[2019.12.07-13.58.48:370][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.07-13.58.48:395][429]LightingResults: New page: Lighting Build - 7 дек. 2019 г., 19:58:48
+[2019.12.07-13.58.48:395][429]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.07-13.58.48:568][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.07-13.58.48:568][429]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.07-13.58.48:568][429]MapCheck: New page: ThirdPersonExampleMap - 7 дек. 2019 г., 19:58:48
+[2019.12.07-13.58.48:581][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12,851ms to complete.
+[2019.12.07-13.58.48:605][429]LogEditorBuildUtils: Build time 0:08
+[2019.12.07-14.00.05:101][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-14.00.33:176][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.07-14.00.34:096][981]LogSavePackage: Moving '../../../../../Ureal`s projects/Gothic-Platformer/Prototype_01/Saved/ThirdPersonExampleMap601F54374C07BF1A051960BB7093F6DE.tmp' to '../../../../../Ureal`s projects/Gothic-Platformer/Prototype_01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.07-14.00.34:159][981]LogSavePackage: Moving '../../../../../Ureal`s projects/Gothic-Platformer/Prototype_01/Saved/ThirdPersonExampleMap_BuiltData5D9B9DBB4E755E39CA635B837C9131BA.tmp' to '../../../../../Ureal`s projects/Gothic-Platformer/Prototype_01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
